@@ -5,6 +5,6 @@ Sprint 1.
 
 Realizar el flujo de compra de mercadería y gestión de Inventario.
 
-Se parrtede un archivo Google Sheets el cual ya esta en operación.
+Se parte de un archivo Google Sheets el cual ya esta en producción.
 
 
